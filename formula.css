@@ -1,0 +1,36 @@
+.main{
+width: 50%;
+height: 300px;
+background-position: center;
+background-size: cover;
+}
+.abhi{
+    
+    background: url("https://formulatrainings.com/wp-content/uploads/2019/08/cta_bg.jpg?id=6083") center no-repeat;
+    background-size: cover;
+} 
+.info{
+    background: url("https://formulatrainings.com/wp-content/uploads/2019/08/apps_bg.jpg?id=6085") center no-repeat;
+    background-size: cover;
+}
+.rama{
+    background: url("https://formulatrainings.com/wp-content/uploads/2023/01/Untitled-design.png?id=10334") center no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 60vh;
+}
+.location{
+    background-color: rgb(35, 34, 34);
+    width: 80%;
+    height: 200px;
+}
+.foot{
+    background-color: rgba(32, 31, 31, 0.934);
+    width: 100%;
+    height: 450px;
+}
+.foot1{
+    background-color: rgb(56, 56, 55);
+    width: 100%;
+    height: 100px;
+}
